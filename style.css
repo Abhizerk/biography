@@ -77,7 +77,18 @@ footer {
     border-top: 1px solid #ddd;
 }
 
+footer .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 footer p {
     margin: 0;
     font-size: 14px;
+}
+
+.disclaimer {
+    font-size: 12px;
+    color: #666;
+    margin-top: 10px;
 }
