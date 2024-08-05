@@ -65,3 +65,19 @@ th {
     background-color: #0073e6;
     color: #fff;
 }
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #ddd;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
